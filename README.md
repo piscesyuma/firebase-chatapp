@@ -29,4 +29,4 @@ And you'll see the app running via [localhost:8100/ionic-lab](http://localhost:8
 
 Happy coding!
 
-Suisun Rob
+Yuma Hayashi
